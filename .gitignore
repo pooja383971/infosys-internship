@@ -1,12 +1,4 @@
-# Node
-node_modules/
-
-# Python
-_pycache_/
+venv/
+__pycache__/
+*.pyc
 .env
-
-# VS Code
-.vscode/
-
-# Logs
-*.log
